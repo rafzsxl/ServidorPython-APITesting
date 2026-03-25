@@ -7,6 +7,11 @@
   </div>
 
   <div align="justify">
+  <h2>Resumo do projeto: </h2>
+  <p> Esse projeto foi desenvolvido na disciplina de ARI, onde criei um server Backend, e realizei POST  e GET via POSTMAN.</p>
+
+
+  <div align="justify">
   <h2>MÉTODO GET 🔍</h2>
   <hr>
   <figure>
@@ -37,9 +42,5 @@
       <i>Imagem 3: Resultados obtidos</i>
     </figcaption>
   </figure>
-
-  <div align="justify">
-  <h2>Resumo do projeto: </h2>
-  <p> Esse projeto foi desenvolvido na disciplina de ARI, onde criei um server Backend, e realizei POST  e GET via POSTMAN.</p>
 
 </body>
